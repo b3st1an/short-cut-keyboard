@@ -20,4 +20,8 @@ learning goals:
 -learn how to have a PC read input from Pi Pico
 -create an entire working system from hardware and software
 -more C++ practice
--more soldering Practice
+-more soldering practice
+
+Next steps:
+-start with the CAD work
+-build the basic circuit and do breadboard testing
