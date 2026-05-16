@@ -1,0 +1,23 @@
+16-05-2026:
+first sketches, set project parameters and initial BOM
+
+initial BOM:
+10 x Gateron 3.0 Pro Black switches
+1 x Rasberry Pi Pico USB C
+1 x EN11 rotary encoder
+1 x 0.96" OLED I2C screen
+
+functionality: 
+-pair to Windows PC/MacBook via USB C to 
+-use a variety of shortcuts 
+-which can be set with basic software
+
+visual goals:
+-sleek, modern look
+
+learning goals:
+-CAD experience
+-learn how to have a PC read input from Pi Pico
+-create an entire working system from hardware and software
+-more C++ practice
+-more soldering Practice
